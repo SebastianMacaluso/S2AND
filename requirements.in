@@ -3,9 +3,9 @@ scikit-learn==0.23.2
 text-unidecode==1.3
 requests==2.24.0
 hyperopt==0.2.4
-pandas==1.1.2
+pandas
 lightgbm==3.0.0
-fastcluster==1.1.26
+fastcluster
 pycld2==0.41
 fasttext==0.9.2
 shap==0.36.0  # importances of pairwise classification
